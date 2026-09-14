@@ -1,9 +1,7 @@
-<div align="center">
-
 # Luka Pajkanovic
-### Systems & Web Developer
+### Systems & Web Architecture
 
-```c++
+```cpp
 LinearArena::alloc<Packet>(sizeof(T)); // Deterministic simulation over heuristic guessing.
 ```
 
@@ -12,34 +10,27 @@ LinearArena::alloc<Packet>(sizeof(T)); // Deterministic simulation over heuristi
 [![Discord](https://img.shields.io/badge/Discord-lukaxdq-000000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com)
 [![Email](https://img.shields.io/badge/Email-Direct-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:pajkanovicluka7@gmail.com)
 
-</div>
+---
+
+### // 01 ARCHITECTURAL PRINCIPLES
+
+> "I build software with intention, deterministic logic, and precision. Clean memory models, compile-time type safety, and architectures that feel instant and unyielding under heavy load."
+
+- **[SYS] Low-Latency & Native Systems**: Cache-line conscious data-oriented architectures, contiguous arena allocators, fixed-timestep simulation loops, and zero-dependency core logic.
+- **[WEB] Modern Web Architecture**: Next.js 15 App Router, React 19 concurrent runtimes, strict TypeScript type contracts, and sub-100ms interaction response cycles.
+- **[NET] Simulation & Netcode**: Authoritative client/server state machines, delta compression, latency compensation, and UDP extrapolation in Luau and C++.
+- **[OPS] Automation & Infrastructure**: Multi-stage Docker containerization, POSIX shell environments, cached GitHub Actions CI/CD pipelines, and zero-downtime rolling updates.
 
 ---
 
-### `// 01 ARCHITECTURAL PHILOSOPHY`
+### // 02 TECHNICAL DOMAINS
 
-> *"I build software with intention, deterministic logic, and precision. Clean memory models, compile-time type safety, and architectures that feel instant and unyielding under heavy load."*
-
-- ⚡ **Low-Latency & Native Systems**: Cache-line conscious data-oriented architectures, contiguous arena allocators, fixed-timestep simulation loops, and zero-dependency core logic.
-- 🌐 **Modern Web Architecture**: Next.js 15 App Router, React 19 concurrent runtimes, strict TypeScript type contracts, and sub-100ms interaction response cycles.
-- 🎮 **Simulation & Netcode**: Authoritative client/server state machines, delta compression, latency compensation, and UDP extrapolation in Luau and C++.
-- 🛠️ **DevOps & Infrastructure**: Multi-stage Docker containerization, POSIX shell environments, cached GitHub Actions CI/CD pipelines, and zero-downtime rolling updates.
-
----
-
-### `// 02 TECHNICAL MATRIX`
-
-```
-┌──────────────────────────┬────────────────────────────────────────────────────────┐
-│ DOMAIN                   │ TECHNOLOGIES & TOOLS                                   │
-├──────────────────────────┼────────────────────────────────────────────────────────┤
-│ Systems & Low-Level      │ C++20 • SIMD • Memory Arenas • Data-Oriented Design    │
-│ Web & Application Layer  │ TypeScript • React 19 • Next.js 15 • Node.js • Tailwind│
-│ Netcode & Simulation     │ Luau • Delta Compression • Client/Server Replication   │
-│ DevOps & Orchestration   │ Docker • Linux / POSIX • GitHub Actions • Watchtower   │
-│ Build Systems & Tooling  │ CMake • Git • Turbopack • ESLint                       │
-└──────────────────────────┴────────────────────────────────────────────────────────┘
-```
+| Discipline | Core Technologies | Primary Focus |
+| :--- | :--- | :--- |
+| **Native Systems** | C++20, SIMD, CMake | Linear arena allocators, cache alignment, fixed-step simulation |
+| **Web Platforms** | TypeScript, React 19, Next.js 15, Node.js | Strict type contracts, server components, sub-100ms response cycles |
+| **Netcode & Simulation** | Luau, C++ | Delta compression, client extrapolation, authoritative state machines |
+| **DevOps & Infrastructure** | Docker, Linux, GitHub Actions, Watchtower | Multi-stage production containers, automated CI/CD deployment |
 
 <br />
 
@@ -51,7 +42,7 @@ LinearArena::alloc<Packet>(sizeof(T)); // Deterministic simulation over heuristi
 
 ---
 
-### `// 03 ACTIVE RESEARCH RADAR`
+### // 03 ACTIVE RESEARCH RADAR
 
 | Focus Area | Track | Current Milestone |
 | :--- | :--- | :--- |
@@ -61,20 +52,11 @@ LinearArena::alloc<Packet>(sizeof(T)); // Deterministic simulation over heuristi
 
 ---
 
-### `// 04 SIGNATURE REPOSITORIES`
+### // 04 FEATURED REPOSITORY
 
-- 🌐 [**portfolio-website**](https://github.com/Lukk1a/portfolio-website) — Senior developer portfolio built with Next.js 15 App Router, React 19, TypeScript, Tailwind CSS, Framer Motion, and multi-stage Docker containerization. Fully accessible (WCAG 2.2 AA) with sub-100ms interactions.
-
----
-
-### `// 05 TELEMETRY & STATS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Lukk1a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=38bdf8&icon_color=38bdf8&text_color=a1a1aa" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukk1a&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=38bdf8&text_color=a1a1aa" height="150" alt="Top Languages" />
-
-</div>
+- [**portfolio-website**](https://github.com/Lukk1a/portfolio-website)  
+  *Next.js 15 • React 19 • TypeScript • Tailwind CSS • Framer Motion • Docker*  
+  Personal engineering portfolio engineered for maximum runtime performance, verified WCAG 2.2 AA accessibility, hardware-accelerated spring dynamics, and automated multi-stage CI/CD container delivery.
 
 ---
 
@@ -84,6 +66,6 @@ LinearArena::alloc<Packet>(sizeof(T)); // Deterministic simulation over heuristi
 [0x0000] SIMULATION   [0x4000] NETCODE   [0x8000] LINEAR HEADROOM
 ```
 
-*Crafted by Luka Pajkanovic • Based in Systems & Web Engineering*
+*Luka Pajkanovic • Systems & Web Developer • [lukka.dev](https://lukka.dev)*
 
 </div>
