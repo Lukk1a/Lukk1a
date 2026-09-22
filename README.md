@@ -12,19 +12,6 @@ LinearArena::alloc<Packet>(sizeof(T)); // Deterministic simulation over heuristi
 
 ---
 
-### // 01 ARCHITECTURAL PRINCIPLES
-
-> "I build software with intention, deterministic logic, and precision. Clean memory models, compile-time type safety, and architectures that feel instant and unyielding under heavy load."
-
-- **[SYS] Low-Latency & Native Systems**: Cache-line conscious data-oriented architectures, contiguous arena allocators, fixed-timestep simulation loops, and zero-dependency core logic.
-- **[WEB] Modern Web Architecture**: Next.js 15 App Router, React 19 concurrent runtimes, strict TypeScript type contracts, and sub-100ms interaction response cycles.
-- **[NET] Simulation & Netcode**: Authoritative client/server state machines, delta compression, latency compensation, and UDP extrapolation in Luau and C++.
-- **[OPS] Automation & Infrastructure**: Multi-stage Docker containerization, POSIX shell environments, cached GitHub Actions CI/CD pipelines, and zero-downtime rolling updates.
-
----
-
-### // 02 TECHNICAL DOMAINS
-
 | Discipline | Core Technologies | Primary Focus |
 | :--- | :--- | :--- |
 | **Native Systems** | C++20, SIMD, CMake | Linear arena allocators, cache alignment, fixed-step simulation |
@@ -42,8 +29,6 @@ LinearArena::alloc<Packet>(sizeof(T)); // Deterministic simulation over heuristi
 
 ---
 
-### // 03 ACTIVE RESEARCH RADAR
-
 | Focus Area | Track | Current Milestone |
 | :--- | :--- | :--- |
 | **Systems Concurrency** | Low-Latency Concurrency & Lock-Free Structures | Profiling SPSC lock-free ring buffer in C++20 |
@@ -51,8 +36,6 @@ LinearArena::alloc<Packet>(sizeof(T)); // Deterministic simulation over heuristi
 | **Distributed Networks** | Distributed Consensus & Edge State Machines | Prototyping deterministic state replication over unreliable UDP |
 
 ---
-
-### // 04 FEATURED REPOSITORY
 
 - [**portfolio-website**](https://github.com/Lukk1a/portfolio-website)  
   *Next.js 15 • React 19 • TypeScript • Tailwind CSS • Framer Motion • Docker*  
